@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+.about-sect {
+  background-color: rgb(116, 248, 248);
+}
+
+.proj-sect {
+  background-color: rgb(165, 107, 216);
+}
+
+.cont-sect {
+  background-color: rgb(248, 191, 116);
+}
+
